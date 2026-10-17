@@ -1,4 +1,4 @@
-# Jawaban Praktikum: <Nama> (<NIM>)
+# Jawaban Praktikum: Luthfi Isa Majid (10223051)
 
 ## Bagian 1: Pemanasan
 
